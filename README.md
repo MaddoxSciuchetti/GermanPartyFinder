@@ -127,13 +127,3 @@ Upload textbooks or study material to quickly find answers to specific topics.
 This project is licensed under the MIT License.
 
 ---
-
-## Contact
-For questions or feedback, please reach out to:
-- **Name**: Siddharth Kharche
-- **Email**: siddukharche04@gmail.com
-- **GitHub**: [siddharth-Kharche](https://github.com/siddharth-Kharche)
-
----
-
-**Happy Conversing!** :books: :speech_balloon:
